@@ -1,0 +1,9 @@
+﻿housing,poutcome,records,conversions,conversion_rate_pct,rate_rank_within_housing,conversion_share_within_housing_pct
+no,success,1040,729,70.10,1,21.74
+no,other,641,194,30.27,2,5.78
+no,failure,1431,330,23.06,3,9.84
+no,unknown,16969,2101,12.38,4,62.64
+yes,success,471,249,52.87,1,12.87
+yes,other,1199,113,9.42,2,5.84
+yes,failure,3470,288,8.30,3,14.88
+yes,unknown,19990,1285,6.43,4,66.41

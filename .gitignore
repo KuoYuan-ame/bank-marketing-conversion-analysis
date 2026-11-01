@@ -1,0 +1,36 @@
+# Raw/source data and generated import file
+# Download data from UCI locally; do not commit row-level raw data.
+data/*
+!data/.gitkeep
+
+# Python caches and environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+credentials.json
+*.log
+
+# Database dumps and files
+*.sql.gz
+*.sqlite
+*.db
+*.bak

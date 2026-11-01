@@ -1,0 +1,11 @@
+﻿job,housing,loan,records,conversions,conversion_rate_pct,lift_vs_overall
+student,no,no,681,247,36.27,3.1
+retired,no,no,1565,453,28.95,2.47
+unemployed,no,no,714,159,22.27,1.9
+management,no,no,4233,829,19.58,1.67
+admin.,no,no,1602,313,19.54,1.67
+self-employed,no,no,715,112,15.66,1.34
+technician,no,no,2989,461,15.42,1.32
+services,no,no,1091,158,14.48,1.24
+blue-collar,no,no,2133,230,10.78,0.92
+housemaid,no,no,750,80,10.67,0.91

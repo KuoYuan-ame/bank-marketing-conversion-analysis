@@ -1,0 +1,11 @@
+﻿job,housing,loan,records,conversions,observed_rate_pct,wilson_low_pct,wilson_high_pct,historical_lift,share_of_all_records_pct,share_of_all_conversions_pct,observed_rank,wilson_lower_rank
+student,no,no,681,247,36.2702,32.7456,39.9488,3.1004,1.5063,4.6701,1,1
+retired,no,no,1565,453,28.9457,26.7525,31.2420,2.4743,3.4615,8.5649,2,2
+unemployed,no,no,714,159,22.2689,19.3701,25.4645,1.9036,1.5793,3.0062,3,3
+management,no,no,4233,829,19.5842,18.4165,20.8071,1.6741,9.3628,15.6740,4,4
+admin.,no,no,1602,313,19.5381,17.6703,21.5516,1.6701,3.5434,5.9179,5,5
+self-employed,no,no,715,112,15.6643,13.1845,18.5112,1.3390,1.5815,2.1176,6,7
+technician,no,no,2989,461,15.4232,14.1729,16.7623,1.3184,6.6112,8.7162,7,6
+services,no,no,1091,158,14.4821,12.5185,16.6950,1.2379,2.4131,2.9873,8,8
+blue-collar,no,no,2133,230,10.7829,9.5365,12.1704,0.9217,4.7179,4.3486,9,9
+housemaid,no,no,750,80,10.6667,8.6544,13.0798,0.9118,1.6589,1.5126,10,10
